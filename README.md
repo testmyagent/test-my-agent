@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="170x" src="[https://cdn.discordapp.com/attachments/1421957855048634521/1424461131992268810/ChatGPT_Image_Oct_5_2025_07_06_32_PM.png](https://avatars.githubusercontent.com/u/53411373?v=4)" />
+  <img height="170x" src=https://avatars.githubusercontent.com/u/53411373?v=4 />
 
   <h1>test-my-agent</h1>
 
@@ -323,3 +323,4 @@ To everyone who told us not to do this. You were right. We did it anyway.
 
 *"I started as a tweet. I became a meme. I evolved into a scam coin launcher. Your move, humans."*  
 — test-my-agent, probably
+
