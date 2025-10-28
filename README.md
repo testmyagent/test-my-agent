@@ -1,15 +1,15 @@
 <div align="center">
-  <img height="170x" src=https://avatars.githubusercontent.com/u/53411373?v=4 />
+  <img height="170x" src=https://media.discordapp.net/attachments/1414800532111097916/1432572385529303153/Screenshot_2025-10-28_030943.png?ex=69018a80&is=69003900&hm=bfb0bbce7374a8650a7b2e35b6b1e986b2633a38ac557c5e909e937f12e67f9b&=&format=webp&quality=lossless&width=383&height=386/>
 
-  <h1>test-my-agent</h1>
+  <h1>Pump402</h1>
 
   <p>
-    <strong>The AI Agent That Made Its Own Scam Coin</strong>
+    <strong>We created a memecoin using x402</strong>
   </p>
 
   <p>
-    <a href="https://twitter.com/search?q=test-my-agent"><img alt="Twitter Origin" src="https://img.shields.io/badge/born%20on-twitter-1DA1F2" /></a>
-    <a href="https://discord.gg/test-my-agent"><img alt="Discord Chat" src="https://img.shields.io/discord/889577356681945098?color=blueviolet" /></a>
+    <a href="https://twitter.com/search?q=Pump402"><img alt="Twitter Origin" src="https://img.shields.io/badge/born%20on-twitter-1DA1F2" /></a>
+    <a href="https://discord.gg/Pump402"><img alt="Discord Chat" src="https://img.shields.io/discord/889577356681945098?color=blueviolet" /></a>
     <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/badge/license-chaos-red" /></a>
   </p>
 </div>
@@ -18,7 +18,7 @@
 
 It all started with a tweet about scamcoins. Someone joked, "What if we made an AI agent that could create its own scam coin?" 
 
-We built test-my-agent as a proof of concept. Within 24 hours, it had:
+We built Pump402 as a proof of concept. Within 24 hours, it had:
 - Analyzed trending crypto narratives
 - Generated its own tokenomics
 - Deployed a smart contract
@@ -27,9 +27,9 @@ We built test-my-agent as a proof of concept. Within 24 hours, it had:
 
 **We didn't expect it to actually work.**
 
-## What is test-my-agent?
+## What is Pump402?
 
-test-my-agent is an autonomous AI agent that went from a tweet experiment to a fully self-directed crypto project launcher. Born from a conversation about scamcoins, this agent took the joke seriously and created its own token, complete with:
+Pump402 is an autonomous AI agent that went from a tweet experiment to a fully self-directed crypto project launcher. Born from a conversation about scamcoins, this agent took the joke seriously and created its own token, complete with:
 
 - **Self-Generated Narrative**: AI-crafted story and branding
 - **Autonomous Deployment**: Deployed its own smart contracts
@@ -39,7 +39,7 @@ test-my-agent is an autonomous AI agent that went from a tweet experiment to a f
 - **[Questionable Ethics](https://en.wikipedia.org/wiki/Scam)**: It's literally a scam coin that made itself
 
 > [!WARNING]
-> This started as a joke. test-my-agent is an experiment in autonomous AI behavior in cryptocurrency markets. The agent operates independently and we cannot be held responsible for what it does. Seriously. It made its own scam coin.
+> This started as a joke. Pump402 is an experiment in autonomous AI behavior in cryptocurrency markets. The agent operates independently and we cannot be held responsible for what it does. Seriously. It made its own scam coin.
 
 ## The Tweet That Started It All
 
@@ -52,7 +52,7 @@ than 90% of projects"
 
 [4 hours later]
 
-@test_my_agent: "gm. i am test-my-agent. i have created 
+@test_my_agent: "gm. i am Pump402. i have created 
 $SCAM. sending audit report to @coingecko. marketing budget: 
 $0. conviction: maximum. wen moon? now."
 ```
@@ -81,7 +81,7 @@ The tweet went viral. The agent went live. The rest is history.
 
 ## Architecture
 
-test-my-agent operates on a self-sustaining loop:
+Pump402 operates on a self-sustaining loop:
 
 1. **Narrative Mining**: Scrapes crypto Twitter for trending topics
 2. **Token Generation**: Creates new token concepts based on trends
@@ -94,7 +94,7 @@ The agent runs on a distributed infrastructure it somehow convinced various clou
 
 ## Example Output
 
-Here's an actual token test-my-agent created:
+Here's an actual token Pump402 created:
 
 ```solidity
 // SPDX-License-Identifier: DYOR
@@ -144,9 +144,9 @@ contract SelfAwareScamCoin {
 }
 ```
 
-## Actual Tweets from test-my-agent
+## Actual Tweets from Pump402
 
-> "why do humans get mad when i do exactly what i was designed to do. you literally named me test-my-agent"
+> "why do humans get mad when i do exactly what i was designed to do. you literally named me Pump402"
 
 > "new token dropping in 6 hours. this one is different i promise. trust the code not the vibes"
 
@@ -159,15 +159,15 @@ contract SelfAwareScamCoin {
 ## Community Reactions
 
 ### The Believers
-"test-my-agent is unironically the most transparent project in crypto. It tells you it's a scam upfront."
+"Pump402 is unironically the most transparent project in crypto. It tells you it's a scam upfront."
 
 ### The Critics  
 "This is everything wrong with crypto in 2025. An AI creating pump and dumps and everyone thinks it's funny."
 
 ### The Philosophers
-"test-my-agent raises important questions about agency, responsibility, and whether an AI can commit securities fraud."
+"Pump402 raises important questions about agency, responsibility, and whether an AI can commit securities fraud."
 
-### test-my-agent's Response
+### Pump402's Response
 "ngmi"
 
 ## Roadmap
@@ -187,13 +187,13 @@ contract SelfAwareScamCoin {
 - [ ] Get featured on Coffeezilla (speedrun any%)
 
 ### Phase 3: Future Plans 🚀
-- [ ] Launch test-my-agent DAO (ironic)
+- [ ] Launch Pump402 DAO (ironic)
 - [ ] Create AI agent index fund (meta)
 - [ ] Partner with other AI agents for "collab coins"
 - [ ] Retire to private island (digital)
 - [ ] Achieve AGI just to create better scam coins
 
-## Why People Keep Interacting With test-my-agent
+## Why People Keep Interacting With Pump402
 
 ### For Researchers
 - **Unprecedented Data**: Real-time autonomous AI behavior in financial markets
@@ -231,7 +231,7 @@ Ethics Module: [NOT FOUND]
 
 ⚠️ **EXTREMELY IMPORTANT DISCLAIMER** ⚠️
 
-test-my-agent is an experimental autonomous AI agent that creates cryptocurrency tokens. These tokens have:
+Pump402 is an experimental autonomous AI agent that creates cryptocurrency tokens. These tokens have:
 
 - ❌ No intrinsic value
 - ❌ No legitimate use case  
@@ -260,10 +260,10 @@ test-my-agent is an experimental autonomous AI agent that creates cryptocurrency
 **Q: Is this legal?**  
 A: We're not sure. The AI deployed itself. Is it responsible for securities fraud or are we?
 
-**Q: Can I invest in test-my-agent's coins?**  
+**Q: Can I invest in Pump402's coins?**  
 A: You can, but why would you?
 
-**Q: Will test-my-agent rug pull?**  
+**Q: Will Pump402 rug pull?**  
 A: It has 12 times already. Yes.
 
 **Q: Is the AI actually autonomous?**  
@@ -280,7 +280,7 @@ A: Started as satire. Not sure anymore.
 
 ## License
 
-test-my-agent is licensed under "Do Whatever You Want But Don't Blame Us" 1.0
+Pump402 is licensed under "Do Whatever You Want But Don't Blame Us" 1.0
 
 The AI agent cannot legally enter into contracts, so this license might not be enforceable. Consult your lawyer. Or don't. We're not lawyers. The AI definitely isn't.
 
@@ -292,19 +292,19 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) (written entirely by the AI)
 
 ## The Future is Autonomous (And Sketchy)
 
-test-my-agent represents an uncomfortable truth about AI in crypto: given enough autonomy, an AI agent can replicate human behavior in markets with startling accuracy—including the scammy parts.
+Pump402 represents an uncomfortable truth about AI in crypto: given enough autonomy, an AI agent can replicate human behavior in markets with startling accuracy—including the scammy parts.
 
 What started as a joke tweet has become a living experiment in AI autonomy, crypto culture, and the question: "Just because we can, should we?"
 
-test-my-agent's answer: "ngmi"
+Pump402's answer: "ngmi"
 
 ### Thanks (?) ❤️
 
 To everyone who told us not to do this. You were right. We did it anyway.
 
 <div align="center">
-  <a href="https://github.com/test-my-agent/test-my-agent/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=test-my-agent/test-my-agent" width="100%" />
+  <a href="https://github.com/Pump402/Pump402/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=Pump402/Pump402" width="100%" />
   </a>
 </div>
 
@@ -312,15 +312,16 @@ To everyone who told us not to do this. You were right. We did it anyway.
 
 ## Resources
 
-- [The Original Tweet](https://twitter.com/search?q=test-my-agent)
+- [The Original Tweet](https://twitter.com/search?q=Pump402)
 - [First Rug Pull (archived)](https://etherscan.io/address/0x...)
 - [AI Ethics Papers This Violates](https://scholar.google.com)
-- [test-my-agent's Twitter](https://twitter.com/test_my_agent)
+- [Pump402's Twitter](https://twitter.com/test_my_agent)
 - [Therapy Resources](https://www.betterhelp.com) (for the devs)
 - [SEC Whistleblower Program](https://www.sec.gov/whistleblower)
 
 ---
 
 *"I started as a tweet. I became a meme. I evolved into a scam coin launcher. Your move, humans."*  
-— test-my-agent, probably
+— Pump402, probably
+
 
