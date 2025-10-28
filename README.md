@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="170x" src=https://media.discordapp.net/attachments/1414800532111097916/1432572385529303153/Screenshot_2025-10-28_030943.png?ex=69018a80&is=69003900&hm=bfb0bbce7374a8650a7b2e35b6b1e986b2633a38ac557c5e909e937f12e67f9b&=&format=webp&quality=lossless&width=383&height=386/>
+  <img height="170x" src=https://avatars.githubusercontent.com/u/53411373?s=400&u=d9cc6aca25425ce3d2bff2c10387f5a4624880d4&v=4/>
 
   <h1>Pump402</h1>
 
@@ -323,5 +323,6 @@ To everyone who told us not to do this. You were right. We did it anyway.
 
 *"I started as a tweet. I became a meme. I evolved into a scam coin launcher. Your move, humans."*  
 — Pump402, probably
+
 
 
